@@ -15,14 +15,11 @@ Choose Track A or B or C, or do all three for maximum certainty.
 
 ### Track A:  Linux Foundation
 
-Essentials of System Administration (LFS201)
-http://training.linuxfoundation.org/essentials-of-system-administration
+- [Essentials of System Administration (LFS201)](http://training.linuxfoundation.org/essentials-of-system-administration)
 40-50 hours
 $499 for course + exam
-Pre-requisites: LFS101x recommended
 
-Certification exam: LFCS (Linux Foundation Certified System Administrator)
-http://training.linuxfoundation.org/certification/lfcs
+- Certification exam: [LFCS (Linux Foundation Certified System Administrator)[(http://training.linuxfoundation.org/certification/lfcs)
 
 
 ### Track B: LPI
@@ -30,8 +27,7 @@ http://training.linuxfoundation.org/certification/lfcs
 [LPI Linux LPIC-1 and CompTIA Linux+ Prep from cbtnuggets.com](https://www.cbtnuggets.com/it-training/lpi-linux-lpic-1-and-comptia-linuxplus-prep)
 15 hours, 72 videos
 
-Certification: LPIC-1 (LPI Linux Server Professional) exams 101 and 102
-https://www.lpi.org/certification/get-certified-lpi/lpic-1-linux-server-professional/
+Certification: [LPIC-1 (LPI Linux Server Professional) exams 101 and 102](https://www.lpi.org/certification/get-certified-lpi/lpic-1-linux-server-professional/)
 
 
 ### Track C: Red Hat
