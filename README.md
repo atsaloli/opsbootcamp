@@ -43,8 +43,7 @@ http://www.redhat.com/en/services/training/courses-by-curriculum
 
 Length: 2 months full-time
 
-Introduction to Computer Science (CS50x)
-https://www.edx.org/course/introduction-computer-science-harvardx-cs50x
+[Introduction to Computer Science (CS50x)](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
 100 - 200 hours
 
 ### Additional trainings
