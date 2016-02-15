@@ -4,6 +4,7 @@
 
 - Read ["Linux Essentials", 2nd ed.](http://www.amazon.com/Linux-Essentials-Christine-Bresnahan-ebook/dp/B014W9RJJO) $25.52, 360 pages
 - Take the Linux Foundation [Introduction to Linux course](https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-2) Free, 40-60 hours.  (LFS101x.2, 2014)
+- Study [Learning the Shell](http://linuxcommand.org/lc3_learning_the_shell.php) (Free)
 - OPTIONAL:  Study ["The Linux Command Line"](http://linuxcommand.org/tlcl.php) book. Free, 537 pages.
 - OPTIONAL:  Certification exam: [LPI Linux Essentials](https://www.lpi.org/certification/linux-essentials/)
 
