@@ -50,4 +50,4 @@ Length: 2 months full-time
 ### Additional resources
 - [Core Vim Course](http://vimcasts.org/training/core-vim-course/) self-paced course ($120 + VAT if you live in Europe), 75 min of videos + 16 exercises
 - [Painless Bugtracking](http://www.joelonsoftware.com/articles/fog0000000029.html)
-- [Introduction to GitHub](https://training.github.com/schedule/) Free training from [GitHub.com](http://githbub.com)
+- [Introduction to GitHub](https://training.github.com/schedule/) Free training from [GitHub.com](http://github.com)
